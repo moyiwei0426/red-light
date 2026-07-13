@@ -1,0 +1,16 @@
+{
+  "database": "../ParticipantDatabase",
+  "pilot_participants": ["F18", "F19", "P16"],
+  "baseline_seconds": 3.0,
+  "fixation_min_duration_seconds": 0.1,
+  "ttc_risk_threshold_seconds": 3.5,
+  "speed_response_absolute_threshold_mps": 0.2,
+  "speed_response_relative_threshold": 0.2,
+  "speed_response_sustain_seconds": 0.3,
+  "stop_speed_threshold_mps": 0.1,
+  "stop_min_duration_seconds": 0.3,
+  "pupil_min_mm": 1.5,
+  "pupil_max_mm": 9.0,
+  "pupil_max_inter_eye_difference_mm": 1.5,
+  "pupil_rolling_outlier_mm": 1.0
+}
